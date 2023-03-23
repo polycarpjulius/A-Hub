@@ -1,6 +1,12 @@
 body{
     width: 100%;
     height: auto;
-    background: linear-gradient(blueviolet blue aqua);
+    background: rgb(29, 1, 1);
     text-align: center;
+    color: white;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    
 }
